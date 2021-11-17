@@ -1,0 +1,25 @@
+{
+  "name": "RxJs_Playground",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "init-ts": "tsc --init",
+    "start": "webpack serve --progress --hot --mode development"
+  },
+  "author": "Ahmed WALI",
+  "license": "ISC",
+  "devDependencies": {
+    "style-loader": "^3.2.1",
+    "ts-loader": "^9.2.6",
+    "typescript": "^4.4.3",
+    "webpack": "^5.53.0",
+    "webpack-cli": "^4.8.0",
+    "webpack-dev-server": "^4.2.1",
+    "html-webpack-plugin": "^5.3.2",
+    "css-loader": "^6.3.0"
+  },
+  "dependencies": {
+    "rxjs": "7.3.1"
+  }
+}
