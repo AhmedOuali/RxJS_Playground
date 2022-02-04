@@ -5,4 +5,4 @@ Demo: https://htmlpreview.github.io/?https://github.com/AhmedOuali/RxJS_Playgrou
 
 
 ### swipe-to-refresh
-Demo: https://htmlpreview.github.io/?https://github.com/AhmedOuali/RxJS_Playground/dist/swipe-to-refresh
+Demo: https://htmlpreview.github.io/?https://github.com/AhmedOuali/RxJS_Playground/tree/master/dist/swipe-to-refresh/index.html
