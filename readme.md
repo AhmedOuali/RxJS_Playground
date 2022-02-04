@@ -1,5 +1,5 @@
 
-# RxJs animation examples
+# RxJS animation examples
 ### bouncing-ball
 Demo: https://htmlpreview.github.io/?https://github.com/AhmedOuali/RxJS_Playground/blob/master/dist/bouncing-balls/index.html  
 
